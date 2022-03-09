@@ -8,7 +8,7 @@ var Category = require('../models/category');
 var Location = require('../models/location');
 // var Latest=require('../models/latest');
 // var Oldest=require('../models/oldest');
-var moment=require('moment');
+
 
 /* GET users listing. */
 router.get('/', (req, res, next) => {
